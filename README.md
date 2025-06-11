@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Pukhraj Sir
+- 😄 **Pronouns:** @Pukhraj-Dhamu
 
 ## 🔗 I am a Content Creator. 😊😊
 
