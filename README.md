@@ -9,13 +9,8 @@ Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** @Pukhraj-Dhamu
-
-## 🔗 I am a Content Creator. 😊😊
-
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
