@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Naresh Desai
+# 🙏🏻 Hi 👋, I'm Naresh Desai
 
 Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
