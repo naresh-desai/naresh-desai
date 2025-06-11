@@ -12,10 +12,6 @@ Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or A
 
 ## 🔗 I am a Content Creator. 😊😊
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/)
-
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
