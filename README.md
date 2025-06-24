@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Cto Sir:** @Pukhraj-Dhamu
+- 😄 **Thanks:** @PukhrajSir for all the learning!
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
 <div align="center">
