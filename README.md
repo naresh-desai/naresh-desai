@@ -1,6 +1,6 @@
 # 🙏🏻 Hi 👋, I'm Naresh Desai
 
-Email Me 👉 ✉️ **desaunaresh775@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **desainaresh775@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
