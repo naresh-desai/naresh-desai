@@ -2,12 +2,12 @@
 
 Email Me 👉 ✉️ **desainaresh775@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on:** Volkai & ZEZO OTT Front end
+- 🌱 **I’m currently learning:** Mern Stack 
+- 👯 **I’m looking to collaborate on:** I am currenly looki for oppportunity As mern stack developer
+- 🤔 **I’m looking for help with:** Nothing for now
+- 💬 **Ask me about:** Collaboration, Tech Support and maintaing Open source
+- 📫 **How to reach me:** ZezoNaresh@gmail.com
 - 😄 **Thanks:** @PukhrajSir for all the learning!
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
